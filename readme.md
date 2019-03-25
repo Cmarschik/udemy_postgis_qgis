@@ -15,4 +15,4 @@ for storing this info:
 - PostGIS Extension
 
 ### Why isn't this code working if I try to run it?
-Well, the code mus not be copied and pasted. First and foremost, PostgreSQL user info will not match up exactly with yours.
+Well, the code must not be copied and pasted. First and foremost, PostgreSQL user info will not match up exactly with yours.
