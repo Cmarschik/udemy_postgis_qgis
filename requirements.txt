@@ -1,0 +1,4 @@
+ - PostgreSQL 10
+ - PostGIS Extension
+ - pgAdmin 4 v4
+ - QGIS 3.6
