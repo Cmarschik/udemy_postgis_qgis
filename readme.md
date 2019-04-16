@@ -15,4 +15,6 @@ for storing this info:
 - PostGIS Extension
 
 ### Why isn't this code working if I try to run it?
-Well, the code must not be copied and pasted. First and foremost, PostgreSQL user info will not match up exactly with yours. Not only that, if only spatial data ends up being worked on, it likely will be posted as binary... which is of course not super useful. Were that to be the case, this repository would simply act as a bookmark in my computer science journey.
+First and foremost, PostgreSQL user info will not match up exactly with yours. Not only that, much of the data is in datatypes that are not compatible with default computer setups... although I am sure anyone involved in GIS has ways to open these file types. Were it to be the case that you cannot open these files, this repository would simply act as a bookmark in my computer science journey.
+
+
